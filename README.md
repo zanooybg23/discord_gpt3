@@ -11,9 +11,9 @@ This is a simple Discord bot that allows you to generate text using GPT-3. The b
 
 ## Example
 
-Input: "I'm feeling lucky today"
+Input: "我今天過得很好！"
 
-Output: "That's great! What's making you feel lucky?"
+Output: "很高興聽到您今天過得很好！是否有任何特別的事情或活動讓您感到開心和滿足呢？如果您有任何需要幫助或分享的事情，請隨時告訴我。"
 
 ## Requirements
 
