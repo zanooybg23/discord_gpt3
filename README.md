@@ -23,6 +23,4 @@ This bot uses the gpt4free package to generate text using GPT-3. The gpt4free pa
 
 Contributions are always welcome! If you have any suggestions or would like to contribute to this project, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
