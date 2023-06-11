@@ -17,7 +17,7 @@ Output: "That's great! What's making you feel lucky?"
 
 ## Requirements
 
-This bot uses the gpt4free package to generate text using GPT-3. The gpt4free package is included in the bot.exe file, so you don't need to install it separately.
+This bot uses the gpt4free package to generate text using GPT-3. The gpt4free package is included in the gpt3.exe file, so you don't need to install it separately.
 
 ## Contributing
 
