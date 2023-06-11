@@ -1,4 +1,4 @@
-# GPT-Discord-Bot
+# GPT-Discord-Bot  (Output only Traditional Chinese)
 
 This is a simple Discord bot that allows you to generate text using GPT-3. The bot is packaged as a standalone executable file, so you don't need to install any dependencies or run any commands.
 
