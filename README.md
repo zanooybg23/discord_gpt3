@@ -17,7 +17,7 @@ Output: "很高興聽到您今天過得很好！是否有任何特別的事情�
 
 ## Requirements
 
-This bot uses the gpt4free package to generate text using GPT-3. The gpt4free package is included in the gpt3.exe file, so you don't need to install it separately.
+This bot uses the gpt4free package to generate text using GPT-3. The gpt4free package is included in the GPT3.exe file, so you don't need to install it separately.
 
 However, the following features must be enabled on https://discord.com/developers in order to use them properly.
 
